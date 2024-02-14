@@ -1,0 +1,15 @@
+asgiref==3.5.2
+Django==4.1.1
+django-appconf==1.0.5
+django-clear-cache==0.3
+django-clearcache==1.2.1
+django-compressor==4.1
+django-fontawesome-5==1.0.18
+django-sass-processor==1.2.1
+libsass==0.21.0
+Pillow==9.2.0
+PyMySQL==1.0.2
+rcssmin==1.1.1
+rjsmin==1.2.0
+six==1.16.0
+sqlparse==0.4.3
